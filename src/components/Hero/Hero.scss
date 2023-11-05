@@ -1,0 +1,75 @@
+.hero {
+    background-color: black;
+    height: 715px;
+}
+
+.container {
+    max-width: 1512px;
+    margin: 0 auto;
+}
+
+.wrapper {
+    width: 358px;
+    height: 188px;
+    margin: 0 auto;
+    padding-top: 68px;
+    text-align: center;
+
+    h2 {
+        color: #EEE;
+        font-family: SF Pro Text;
+        font-size: 56px;
+        font-style: normal;
+        font-weight: 500;
+        line-height: normal;
+        letter-spacing: -1.12px;
+    }
+
+    h3 {
+        color: #EEE;
+        font-family: SF Pro Text;
+        font-size: 26px;
+        font-style: normal;
+        font-weight: 500;
+        line-height: normal;
+        letter-spacing: -0.52px;
+    }
+
+    p {
+        color: #86868B;
+        font-family: SF Pro Text;
+        font-size: 20px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: normal;
+        letter-spacing: -0.4px;
+    }
+
+    .button button {
+
+        font-family: SF Pro Text;
+
+        font-style: normal;
+        font-weight: 500;
+        line-height: normal;
+        letter-spacing: -0.4px;
+        background-color: transparent;
+        border: none;
+
+        a {
+            color: #2997FF;
+            font-size: 20px;
+        }
+    }
+
+    z-index: 1;
+
+}
+
+.iphone {
+    z-index: 0;
+    width: 600px;
+    height: 350px;
+    padding: 109px 465px;
+
+}

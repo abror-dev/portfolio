@@ -1,0 +1,63 @@
+.airpods {
+    background-color: black;
+    height: 913px;
+
+}
+
+.container {
+    max-width: 1512px;
+    margin: 0 auto;
+}
+
+.airpods__info {
+    width: 515px;
+    padding-top: 65px;
+    margin: 0 auto;
+    text-align: center;
+
+    h2 {
+        color: white;
+        font-family: SF Pro Text;
+        font-size: 56px;
+        font-style: normal;
+        font-weight: 500;
+        line-height: normal;
+        letter-spacing: -1.12px;
+    }
+
+    h4 {
+        color: white;
+        font-family: SF Pro Text;
+        font-size: 26px;
+        font-style: normal;
+        font-weight: 500;
+        line-height: normal;
+        letter-spacing: -0.52px;
+    }
+
+    p {
+        color: #86868B;
+        font-family: SF Pro Text;
+        font-size: 20px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: normal;
+        letter-spacing: -0.4px;
+    }
+
+    span {
+        button {
+            color: #06C;
+
+            font-size: 20px;
+            font-style: normal;
+            font-weight: 500;
+            line-height: normal;
+            letter-spacing: -0.4px;
+            background-color: transparent;
+            border: none;
+            text-decoration: underline;
+        }
+    }
+
+}
